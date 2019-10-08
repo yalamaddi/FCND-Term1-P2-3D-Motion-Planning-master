@@ -3,7 +3,7 @@ Udacity Flying Car Nanodegree - Term 1 - Project 2 - 3D Motion Planning
 
 This is the second project on [Udacity's Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787). It consists of planning and executing a trajectory of a drone in an urban environment. Built on top of the event-based strategy utilized on the [first project]  Backyard Flyer, the complexity of path planning in a 3D environment is explored. The code communicates with [Udacity FCND Simulator](https://github.com/udacity/FCND-Simulator-Releases/releases) using [Udacidrone](https://udacity.github.io/udacidrone/) API.
 
-![Drone flying](./images/drone_flying.gif)
+![Drone flying](/images/drone_flying.gif)
 
 # Prerequisites
 To run this project, you need to have the following software installed:
